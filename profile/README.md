@@ -3,15 +3,20 @@
 The members here have only one principle: they are all friends who love cats.
 
 ## 👑 Challenges
-- [(冠军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Classic](https://github.com/OpenMeow/LFTransMamba)
-- [(亚军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Efficiency](https://github.com/OpenMeow/LFTransMamba)
-- [(冠军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Large Model](https://github.com/OpenMeow/LFTransMamba)
-- [(季军) 2024-CVPR-NTIRE on Light Field Image Super-Resolution: Fiedlity](https://github.com/OpenMeow/NTIRE24_LFSR_PSWPP)
-- [(冠军) 2023-CVPR-NTIRE on Light Field Image Super-Resolution: Fiedlity](https://github.com/OpenMeow/NTIRE23_LFSR_DistgEPIT)
-- [(亚军) 2022-CVPR-NTIRE on Stereo Image Super-Resolution](#)
-- [(冠军) 2022-ECCV-Urban3D on Urban Scenes Understanding: Instance Segmentation Track](#)
-- [(亚军) 2022-ECCV-Urban3D on Urban Scenes Understanding: Semantic Segmentation Track](#)
-- [(冠军) 2021-ICCV-Urban3D on Urban Scenes Understanding: Semantic Segmentation Track](#)
+- 2025:
+  - [(冠军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Classic](https://github.com/OpenMeow/LFTransMamba)
+  - [(亚军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Efficiency](https://github.com/OpenMeow/LFTransMamba)
+  - [(冠军) 2025-CVPR-NTIRE on Light Field Image Super-Resolution: Large Model](https://github.com/OpenMeow/LFTransMamba)
+- 2024:
+  - [(季军) 2024-CVPR-NTIRE on Light Field Image Super-Resolution: Fiedlity](https://github.com/OpenMeow/NTIRE24_LFSR_PSWPP)
+- 2023:
+  - [(冠军) 2023-CVPR-NTIRE on Light Field Image Super-Resolution: Fiedlity](https://github.com/OpenMeow/NTIRE23_LFSR_DistgEPIT)
+- 2022:
+  - [(亚军) 2022-CVPR-NTIRE on Stereo Image Super-Resolution](#)
+  - [(冠军) 2022-ECCV-Urban3D on Urban Scenes Understanding: Instance Segmentation Track](#)
+  - [(亚军) 2022-ECCV-Urban3D on Urban Scenes Understanding: Semantic Segmentation Track](#)
+- 2021:
+-   [(冠军) 2021-ICCV-Urban3D on Urban Scenes Understanding: Semantic Segmentation Track](#)
 
 ## 👪 Members
 
